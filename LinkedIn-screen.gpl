@@ -1,0 +1,101 @@
+GIMP Palette
+Name: LinkedIn-screen
+Columns: 8
+#
+  0   0   0	black
+ 52 179 228	blue 3
+  0 160 220	blue 5
+  0 140 201	blue 6
+  0 119 181	blue 7
+  0  94 147	blue 8
+  0  68 113	blue 9
+177  12  92	fuchsia 8
+135   0  68	fuchsia 9
+160 163 166	gray 4
+115 118 121	gray 6
+ 89  92  95	gray 7
+ 67  70  73	gray 8
+ 48  51  54	gray 9
+224 244 190	green 1
+199 229 154	green 2
+174 214 119	green 3
+149 199  83	green 4
+124 184  47	green 5
+ 96 170  20	green 6
+ 78 143  19	green 7
+ 59 117  17	green 8
+ 41  90  16	green 9
+243 199  70	mustard 4
+239 185  32	mustard 5
+230 167   0	mustard 6
+202 148   0	mustard 7
+170 125   0	mustard 8
+139 103   0	mustard 9
+165 137 217	purple 4
+ 69  43 127	purple 9
+241 109 100	red 4
+236  67  57	red 5
+221  46  31	red 6
+193  31  29	red 7
+164  15  28	red 8
+136   0  26	red 9
+245 150  64	siena 4
+236 100  12	siena 5
+244 123  22	siena 5
+205  83   8	siena 6
+175  65   4	siena 7
+144  48   0	siena 8
+ 53 190 193	teal 4
+  0 174 179	teal 5
+  0 158 165	teal 6
+  0 136 145	teal 7
+  0 114 125	teal 8
+  0  92 105	teal 9
+243 113 175	Untitled (occurs 3650)
+124  91 187	Untitled (occurs 3700)
+226  36 127	Untitled (occurs 3700)
+255 224 218	Untitled (occurs 3745)
+255 242 182	Untitled (occurs 3746)
+230 233 236	Untitled (occurs 3747)
+236 228 255	Untitled (occurs 3747)
+255 223 242	Untitled (occurs 3747)
+255 231 187	Untitled (occurs 3747)
+207 237 251	Untitled (occurs 3748)
+210 236 235	teal 1
+ 87  59 147	Untitled (occurs 3750)
+104 199 236	Untitled (occurs 3750)
+105 205 207	teal 3
+106  75 167	Untitled (occurs 3750)
+134 137 140	Untitled (occurs 3750)
+140 104 203	Untitled (occurs 3750)
+155 218 243	Untitled (occurs 3750)
+158 221 221	teal 2
+182 185 188	Untitled (occurs 3750)
+191 171 230	Untitled (occurs 3750)
+201  24 110	Untitled (occurs 3750)
+208 211 214	Untitled (occurs 3750)
+216 204 244	Untitled (occurs 3750)
+237  71 149	Untitled (occurs 3750)
+246 152 144	Untitled (occurs 3750)
+247 178 106	siena 3
+248 213 107	Untitled (occurs 3750)
+249 154 202	Untitled (occurs 3750)
+249 205 148	Untitled (occurs 3750)
+250 194 187	Untitled (occurs 3750)
+251 228 145	Untitled (occurs 3750)
+255 196 228	Untitled (occurs 3750)
+231 247 253	Untitled (occurs 4325)
+255 243 221	Untitled (occurs 4328)
+240 250 223	Untitled (occurs 4331)
+255 239 249	Untitled (occurs 4334)
+255 240 237	Untitled (occurs 4337)
+233 246 246	Untitled (occurs 4345)
+246 242 255	Untitled (occurs 4379)
+240 243 247	Untitled (occurs 4386)
+255 249 219	Untitled (occurs 4393)
+153 153 153	Untitled (occurs 6)
+104 111 114	Untitled (occurs 60)
+105 111 111	Untitled (occurs 60)
+108 110 111	Untitled (occurs 60)
+111 109 115	Untitled (occurs 60)
+255 255 255	white
