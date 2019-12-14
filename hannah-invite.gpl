@@ -1,0 +1,12 @@
+GIMP Palette
+Name: LinkedIn-screen
+Columns: 8
+#
+  0   0   0	black
+  0RGB="#005eb8" Pantone-300
+  0RGB="#0077c8" Pantone-3005
+RGB="#dbe2e9" Pantone-649-C
+RGB="#dde5ed" Pantone-656-C
+RGB="#e5e1e6" Pantone-663-C
+
+255 255 255	white
